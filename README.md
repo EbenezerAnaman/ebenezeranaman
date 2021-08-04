@@ -7,6 +7,19 @@ I'm Ebenezer from Germany, and I do editing and coding. I like to code using Cod
 * 💻 Java, HTML, Python
 * 🖊️ Editor
 
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZVQqZDpGbn0
+" target="_blank"><img src="http://img.youtube.com/vi/ZVQqZDpGbn0/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=P47a_dqkRy8
+" target="_blank"><img src="http://img.youtube.com/vi/P47a_dqkRy8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cdLqJjzQEeI
+" target="_blank"><img src="http://img.youtube.com/vi/cdLqJjzQEeI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 - 🔭 I’m currently working on my future. 
 - 🌱 I’m currently learning Java. 
 - 💬 Ask me about anything 
