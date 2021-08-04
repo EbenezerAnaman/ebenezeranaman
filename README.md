@@ -1,10 +1,11 @@
-### Hi there 👋, Ebenezer Anaman
-#### Coder and Editor
 ![Coder and Editor](https://pbs.twimg.com/profile_banners/3044223040/1592859987/1500x500)
 
+# Ebenezer Anaman
 I'm Ebenezer from Germany, and I do editing and coding. I like to code using Code Cademy to improve my skills in Python, HTML and Java. I also enjoy editing and making videos on Youtube and Instagram.
 
-Skills: Java / HTML / Python
+## Skills:
+* 💻 Java, HTML, Python
+* 🖊️ Editor
 
 - 🔭 I’m currently working on my future. 
 - 🌱 I’m currently learning Java. 
