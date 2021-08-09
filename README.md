@@ -1,4 +1,4 @@
-![Coder and Editor](https://pbs.twimg.com/profile_banners/3044223040/1592859987/1500x500)
+![Coder and Editor](https://twitter.com/eben_anaman/header_photo)
 
 # Ebenezer Anaman
 I'm Ebenezer from Germany, and I do editing and coding. I like to code using Code Cademy to improve my skills in Python, HTML and Java. I also enjoy editing and making videos on Youtube and Instagram.
